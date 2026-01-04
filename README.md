@@ -22,7 +22,8 @@ Manage and visualize your spending habits by group.
 
 ### Accounts
 Keep track of different banks or cash wallets.
-![Account View](./public/account.png)
+![Account View](./public/accounts.png)
+
 
 ---
 
